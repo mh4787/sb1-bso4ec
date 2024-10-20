@@ -40,12 +40,12 @@ const Hero = () => {
             Get Started
           </button>
         ) : (
-          <img src="https://source.unsplash.com/600x400/?cute,puppy" alt="Cute puppy" className="mx-auto rounded-lg shadow-lg mb-8 transition-opacity duration-500 opacity-100" />
+          <img src="https://i.ibb.co/JsRx9Gy/baby-dog-tiny-cute-adorable-600nw-2208569943.webp" alt="Cute puppy" className="mx-auto rounded-lg shadow-lg mb-8 transition-opacity duration-500 opacity-100" />
         )}
       </div>
       <img
         id="animated-dog"
-        src="https://i.ibb.co/JsRx9Gy/baby-dog-tiny-cute-adorable-600nw-2208569943.webp"
+        src="https://i.ibb.co/9hvJg2c/R.png"
         alt="Running dog"
         className="absolute bottom-0 hidden"
         style={{ width: '100px', height: 'auto' }}

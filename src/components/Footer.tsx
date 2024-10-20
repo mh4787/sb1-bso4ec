@@ -11,9 +11,9 @@ const Footer = () => {
             <p className="text-sm">A virtual pet app that provides a fun and interactive experience.</p>
           </div>
           <div className="flex space-x-4">
-            <a href="#" className="hover:text-blue-200 transition duration-300"><Facebook /></a>
-            <a href="#" className="hover:text-blue-200 transition duration-300"><Twitter /></a>
-            <a href="#" className="hover:text-blue-200 transition duration-300"><Instagram /></a>
+            <a href="https://www.facebook.com/" className="hover:text-blue-200 transition duration-300"><Facebook /></a>
+            <a href="https://www.instagram.com/" className="hover:text-blue-200 transition duration-300"><Twitter /></a>
+            <a href="https://x.com/?lang=en" className="hover:text-blue-200 transition duration-300"><Instagram /></a>
           </div>
         </div>
         <div className="mt-8 text-center text-sm">

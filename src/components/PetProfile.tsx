@@ -10,7 +10,7 @@ const PetProfile = () => {
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold text-center mb-12">Pet Profile</h2>
         <div className="bg-white rounded-lg shadow-md p-8 max-w-md mx-auto">
-          <img src="https://source.unsplash.com/300x300/?cute,pet" alt="Pet" className="w-32 h-32 rounded-full mx-auto mb-4" />
+          <img src="https://i.ibb.co/JsRx9Gy/baby-dog-tiny-cute-adorable-600nw-2208569943.webp" alt="Pet" className="w-32 h-32 rounded-full mx-auto mb-4" />
           <input
             type="text"
             value={petName}
@@ -25,7 +25,7 @@ const PetProfile = () => {
           </div>
         </div>
         <div className="mt-8 text-center">
-          <img src="https://source.unsplash.com/600x400/?pet,playing" alt="Pet playing" className="rounded-lg shadow-lg mx-auto" />
+          <img src="https://i.ibb.co/DVkJGx4/OIP.jpg" alt="Pet playing" className="rounded-lg shadow-lg mx-auto" />
         </div>
       </div>
     </section>
